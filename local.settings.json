@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=bdfea34f-2781-47bf-b705-7d669d2b2ac5;IngestionEndpoint=https://centralus-2.in.applicationinsights.azure.com/;LiveEndpoint=https://centralus.livediagnostics.monitor.azure.com/",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "bdfea34f-2781-47bf-b705-7d669d2b2ac5",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=rgharmanbe61;AccountKey=djMTzFKabIm8p6gFsqgqfFdNhvcG/V6PGkjTx5XFGsdHF58rWA+baRnkDacNi97JleemaOsSdVU8+AStW9jl8w==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "faag61222a5a7",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "faag61222",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=rgharmanbe61;AccountKey=djMTzFKabIm8p6gFsqgqfFdNhvcG/V6PGkjTx5XFGsdHF58rWA+baRnkDacNi97JleemaOsSdVU8+AStW9jl8w==;EndpointSuffix=core.windows.net"
+  }
+}
